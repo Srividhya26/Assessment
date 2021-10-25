@@ -176,7 +176,7 @@ BEGIN
   BEGIN TRY
     BEGIN IF(@Name is not null and @Email is not null and @Mobile is not null)
 	  INSERT INTO Feedback (SessionId,Email,MobileNumber,Comment,IsInformative,SpeakerRating,OverrallRating,Name)
-	  VALUES (@SessionId,@Email,@Mobile,@Comment,@IsInformative,@SpeakerRating,@OverrallRating,@Name)
+	  VALUES (SCOPE_IDENTITY(),@Email,@Mobile,@Comment,@IsInformative,@SpeakerRating,@OverrallRating,@Name)
 	ELSE
 	  return 'Name , Email and Mobile number is required'
 	END
