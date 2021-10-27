@@ -1,0 +1,15 @@
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\bin\Debug\net5.0\ShoppingDAL.deps.json
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\bin\Debug\net5.0\ShoppingDAL.runtimeconfig.json
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\bin\Debug\net5.0\ShoppingDAL.runtimeconfig.dev.json
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\bin\Debug\net5.0\ShoppingDAL.dll
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\bin\Debug\net5.0\ref\ShoppingDAL.dll
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\bin\Debug\net5.0\ShoppingDAL.pdb
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.csproj.AssemblyReference.cache
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.AssemblyInfoInputs.cache
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.AssemblyInfo.cs
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.csproj.CoreCompileInputs.cache
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.dll
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ref\ShoppingDAL.dll
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.pdb
+C:\Users\srividhyav\source\repos\ShoppingPL\ShoppingDAL\obj\Debug\net5.0\ShoppingDAL.genruntimeconfig.cache
